@@ -1,5 +1,4 @@
 
-```markdown
 # QuickSort2 Implementation
 
 Welcome to the QuickSort2 program! This Java program demonstrates the implementation of the QuickSort algorithm with a modification using the median of three as the pivot. The program includes counting the total number of copy and comparison operations performed during the sorting process.
